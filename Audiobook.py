@@ -23,3 +23,7 @@ for num in range(7, pages):
     text = page.extractText()# it will extract the text of the pdf to read.
     speaker.say(text)
     speaker.runAndWait()
+    
+    # coded By Vaibhav Krishna 
+    # commercial use is Prohibited.
+    # only for new learners.
